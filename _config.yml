@@ -3,3 +3,4 @@ logo: /assets/img/shanzhong.png
 description: Phd student at U of South Carolina
 show_downloads: true
 google_analytics:
+theme: jekyll-theme-minimal
