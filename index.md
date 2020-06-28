@@ -9,4 +9,4 @@ Hi, I am Shan Zhong. This is my website!
 
 
 ## Recent programming:
-[BERT language model](https://github.com/Shanlearning/bert)
+Twitter sentiment stock prediction.
