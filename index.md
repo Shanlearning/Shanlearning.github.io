@@ -11,6 +11,5 @@ Hi, I am Shan Zhong. This is my website!
 [STAT 201 Lab 2020 Spring](https://github.com/Shanlearning/Stat201-Spring).
 
 
-
-## Recent programming:
-Twitter sentiment stock prediction. 
+## Recent Coursework:
+[Recent Coursework](https://github.com/Shanlearning/past-coursework#past-coursework).
