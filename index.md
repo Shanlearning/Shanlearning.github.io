@@ -8,6 +8,10 @@ Hi, I am Shan Zhong. This is my website!
 
 zhongs@email.sc.edu
 
+## Lab information:
+
+[Lab3](https://github.com/Shanlearning/Stat201/tree/master/Lab3)
+
 ## Recent Coursework:
 [Recent Coursework](https://github.com/Shanlearning/past-coursework#past-coursework).
 
