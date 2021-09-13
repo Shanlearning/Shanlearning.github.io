@@ -18,3 +18,7 @@ zhongs@email.sc.edu
 
 ## Preprint:
 [Shan Zhong, & David B. Hitchcock. (2021). S&P 500 Stock Price Prediction Using Technical, Fundamental and Text Data.](https://arxiv.org/abs/2108.10826)
+
+## Test:
+[Simulate for life](https://shanlearning.github.io/lifeRestart/)
+
