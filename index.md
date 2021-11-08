@@ -11,13 +11,15 @@ zhongs@email.sc.edu
 ## Lab information:
 
 [Lab3](https://github.com/Shanlearning/Stat201/tree/master/Lab3), 
-[Lab5](https://github.com/Shanlearning/Stat201/tree/master/Lab5)
+[Lab5](https://github.com/Shanlearning/Stat201/tree/master/Lab5),
+[Lab7](https://github.com/Shanlearning/Stat201/tree/master/Lab7),
+[Lab9](https://github.com/Shanlearning/Stat201/tree/master/Lab9)
 
 ## Recent Coursework:
 [Recent Coursework](https://github.com/Shanlearning/past-coursework#past-coursework).
 
 ## Preprint:
-[**Shan Zhong**, & David B. Hitchcock. (2021). S&P 500 Stock Price Prediction Using Technical, Fundamental and Text Data.](https://arxiv.org/abs/2108.10826)
+[Shan Zhong, & David B. Hitchcock. (2021). S&P 500 Stock Price Prediction Using Technical, Fundamental and Text Data. (accpeted)](https://arxiv.org/abs/2108.10826)
 
 ## Test:
 [Simulate for life](https://shanlearning.github.io/lifeRestart/view/index.html)
