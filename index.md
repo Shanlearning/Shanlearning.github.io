@@ -19,8 +19,7 @@ zhongs@email.sc.edu
 [Recent Coursework](https://github.com/Shanlearning/past-coursework#past-coursework).
 
 ## Research Papers:
-[Shan Zhong, & David B. Hitchcock. (2021). S&P 500 Stock Price Prediction Using Technical, Fundamental and Text Data. Statistics, Optimization & Information Computing.(in press)](http://www.iapress.org/index.php/soic/article/view/1362/845)              
-[Code](https://github.com/Shanlearning/SP-500-Stock-Prediction)
+[Shan Zhong, & David B. Hitchcock. (2021). S&P 500 Stock Price Prediction Using Technical, Fundamental and Text Data. Statistics, Optimization & Information Computing.(in press)](http://www.iapress.org/index.php/soic/article/view/1362/845) [Code and data to implement method in Zhong/Hitchcock paper](https://github.com/Shanlearning/SP-500-Stock-Prediction)
 
 ## Test:
 [Simulate for life](https://shanlearning.github.io/lifeRestart/view/index.html)
