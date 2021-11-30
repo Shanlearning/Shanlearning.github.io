@@ -13,7 +13,8 @@ zhongs@email.sc.edu
 [Lab3](https://github.com/Shanlearning/Stat201/tree/master/Lab3), 
 [Lab5](https://github.com/Shanlearning/Stat201/tree/master/Lab5),
 [Lab7](https://github.com/Shanlearning/Stat201/tree/master/Lab7),
-[Lab9](https://github.com/Shanlearning/Stat201/tree/master/Lab9)
+[Lab9](https://github.com/Shanlearning/Stat201/tree/master/Lab9),
+[Lab11](https://github.com/Shanlearning/Stat201/tree/master/Lab11)
 
 ## Recent Coursework:
 [Recent Coursework](https://github.com/Shanlearning/past-coursework#past-coursework).
