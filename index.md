@@ -28,7 +28,7 @@ zhongs@email.sc.edu
 
 ## Dissertation:
 
-Deep Learning, Clustering, and Decision Process Approaches for Modeling Time Series Data, [ppt slides]()
+Deep Learning, Clustering, and Decision Process Approaches for Modeling Time Series Data, [ppt slides](https://github.com/Shanlearning/shanlearning.github.io/raw/master/assets/pdf/dissertation%20ppt.pdf)
 
 ## A fun game:
 [Simulate for life](https://shanlearning.github.io/lifeRestart/view/index.html)
