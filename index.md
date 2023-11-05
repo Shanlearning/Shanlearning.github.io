@@ -26,7 +26,7 @@ zhongs@email.sc.edu
 ## Research Papers:
 [Zhong, S. and Hitchcock, D. B. (2021). “S&P 500 Stock Price Prediction Using Technical, Fundamental and Text Data” Statistics, Optimization & Information Computing, 9, 769-788.](http://www.iapress.org/index.php/soic/article/view/1362) [Code and data to implement method](https://github.com/Shanlearning/SP-500-Stock-Prediction)
 
-Zhong, S. and Hitchcock, D. B. (2023). “Functional Clustering of Fictional Narratives Using Vonnegut Curves,” in press, Advances in Data Analysis and Classification .
+[Zhong, S. and Hitchcock, D. B. (2023). “Functional Clustering of Fictional Narratives Using Vonnegut Curves,” in press, Advances in Data Analysis and Classification .](https://rdcu.be/dqh67)
 
 ## Dissertation:
 
